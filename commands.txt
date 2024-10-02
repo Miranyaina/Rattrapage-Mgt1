@@ -3,3 +3,12 @@ git add .
 git commit -m "first commit"
 git remote add origin https://github.com/Miranyaina/Rattrapage-mgt1.git
 git push -u origin main
+
+git add .
+git commit -m "adding commands.txt"
+git push -u origin main
+
+git add .
+git commit -m "creating profile.txt, contains first and last name"
+git push -u origin main
+
