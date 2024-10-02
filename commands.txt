@@ -12,3 +12,6 @@ git add .
 git commit -m "creating profile.txt, contains first and last name"
 git push -u origin main
 
+git add .
+git commit -m "adding contents in commands.txt"
+git push -u origin main
