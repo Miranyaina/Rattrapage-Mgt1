@@ -1,0 +1,9 @@
+a) Git pull permet de faire un fetch un contenu et de le telecharger depuis un dépôt distant.
+
+b)Git clone permet de copier un projet d'un dépôt distant à un dépôt local.
+
+c)Un fork permet de dupliquer un repository d'un compte à un autre.
+
+d)Un pull request est surtout util pour coordonner le travail des co-workers,
+pour ne pas empiéter sur le travail des autres. En gros il faut l'autorisation
+d'un tiers pour pouvoir fusioner leur travail avec la branche principal d'un dépôt github.

@@ -24,3 +24,10 @@ git add .
 git commit -m "creating theory.txt"
 git push -u origin main
 
+git add .
+git commit -m "modifying commands.txt"
+git push -u origin main
+
+git add .*
+git commit -m "modifying commands.txt"
+git push -u origin main
