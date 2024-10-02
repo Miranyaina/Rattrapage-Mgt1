@@ -15,3 +15,8 @@ git push -u origin main
 git add .
 git commit -m "adding contents in commands.txt"
 git push -u origin main
+
+git add .
+git commit -m "adding contents in commands.txt and a precision in profile.txt"
+git push -u origin main
+
